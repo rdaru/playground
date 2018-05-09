@@ -1,3 +1,10 @@
 this is the beginning :-) 
 adding 2nd line for merging with master
-adding 4th line in branch 
+
+
+
+
+
+
+adding arbitrary  and squish all commts  line in branch 
+
