@@ -8,3 +8,4 @@ Adding 3rd line in master for merge with branch
 
 adding arbitrary  and squish all commts  line in branch 
 
+Adding 5th line in master
