@@ -1,6 +1,6 @@
 this is the beginning :-) 
 adding 2nd line for merging with master
-
+Adding 3rd line in master for merge with branch
 
 
 
