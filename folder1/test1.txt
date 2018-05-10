@@ -11,4 +11,3 @@ adding arbitrary  and squish all commts  line in branch
 
 Adding 5th line in master
 Adding 6th line in branch
-shouldnt have added the 6th line
